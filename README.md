@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Monowar Hussain</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [news app using newsapi](https://github.com/techMonowar/mononews_app-main)
-
-- 🌱 I’m currently learning **laravel, django, express, flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
